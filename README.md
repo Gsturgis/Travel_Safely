@@ -1,9 +1,9 @@
-<h1 align="center" style="color:173, 110, 245;">
+<h1 align="center", style="color:173, 110, 245;">
 Travel Safely
 </h1>      
-![image](https://user-images.githubusercontent.com/68433555/116340405-1d701e80-a7ad-11eb-8843-559104777a49.png)
-
-Our Project is Aimed at making travel safe and accommodating while following COVID19 guideline and restrictions
+<h2 align="center", style="color:173, 110, 245;">
+  Our Project is Aimed at making travel safe and accommodating while following COVID19 guideline and restrictions
+</h2>
 
 ![slide1](https://user-images.githubusercontent.com/68433555/116340143-ab97d500-a7ac-11eb-8cdb-c991de0212a0.jpg)
 ![slide2](https://user-images.githubusercontent.com/68433555/116340202-c23e2c00-a7ac-11eb-9e3f-b3ad5e75710f.png)
