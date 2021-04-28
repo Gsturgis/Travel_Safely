@@ -2,7 +2,7 @@
 Travel Safely
 </h1>      
 <h2 align="center", style="color:173, 110, 245;">
-  Our Project is Aimed at making travel safe and accommodating while following COVID19 guideline and restrictions
+  Our Project is Aimed at making travel safe and accommodating while following COVID19 guidelines and restrictions
 </h2>
 
 ![slide1](https://user-images.githubusercontent.com/68433555/116340143-ab97d500-a7ac-11eb-8cdb-c991de0212a0.jpg)
